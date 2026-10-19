@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "numero": 1,
-  "pubblicato": "2026-10-19T15:03:15Z",
+  "numero": 2,
+  "pubblicato": "2026-10-19T16:06:52Z",
   "componenti": [
     {
       "id": "prova",
       "tipo": "modulo",
-      "versione": "0.1.0",
+      "versione": "0.2.0",
       "descrizione": "modulo di prova",
       "file": {
         "windows-x86_64": {
-          "url": "componenti/prova/0.1.0/windows-x86_64/utilio-modulo-prova.exe",
-          "sha256": "ac5689d6ba2a2e94bea4f4d16cf5f06c86f41e2d3ec1b3e6a2858cda7a56d80d",
-          "byte": 150016
+          "url": "componenti/prova/0.2.0/windows-x86_64/utilio-modulo-prova.exe",
+          "sha256": "e24bc71d62259cab293955410f1a063905e2e256cd1234d68d541ce05afbf742",
+          "byte": 247296
         }
       }
     }
