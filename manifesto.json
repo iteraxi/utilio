@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "numero": 1,
+  "pubblicato": "2026-10-19T15:03:15Z",
+  "componenti": [
+    {
+      "id": "prova",
+      "tipo": "modulo",
+      "versione": "0.1.0",
+      "descrizione": "modulo di prova",
+      "file": {
+        "windows-x86_64": {
+          "url": "componenti/prova/0.1.0/windows-x86_64/utilio-modulo-prova.exe",
+          "sha256": "ac5689d6ba2a2e94bea4f4d16cf5f06c86f41e2d3ec1b3e6a2858cda7a56d80d",
+          "byte": 150016
+        }
+      }
+    }
+  ]
+}
