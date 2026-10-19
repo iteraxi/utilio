@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "numero": 2,
-  "pubblicato": "2026-10-19T16:06:52Z",
+  "numero": 3,
+  "pubblicato": "2026-10-19T16:45:42Z",
   "componenti": [
     {
       "id": "prova",
@@ -13,6 +13,19 @@
           "url": "componenti/prova/0.2.0/windows-x86_64/utilio-modulo-prova.exe",
           "sha256": "e24bc71d62259cab293955410f1a063905e2e256cd1234d68d541ce05afbf742",
           "byte": 247296
+        }
+      }
+    },
+    {
+      "id": "nucleo",
+      "tipo": "nucleo",
+      "versione": "0.1.1",
+      "descrizione": "Utilio",
+      "file": {
+        "windows-x86_64": {
+          "url": "componenti/nucleo/0.1.1/windows-x86_64/Utilio_0.1.1_x64-setup.exe",
+          "sha256": "c48cd6818007a4efa6ff96bc401b1a592c38b6650aa016227cef07f0e6ad66f7",
+          "byte": 1798077
         }
       }
     }
