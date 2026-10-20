@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "numero": 8,
-  "pubblicato": "2026-10-20T09:59:53Z",
+  "numero": 10,
+  "pubblicato": "2026-10-20T17:24:26Z",
   "componenti": [
     {
       "id": "prova",
@@ -19,18 +19,28 @@
     {
       "id": "nucleo",
       "tipo": "nucleo",
-      "versione": "0.1.4",
+      "versione": "0.1.5",
       "descrizione": "Utilio",
       "file": {
         "windows-x86_64": {
-          "url": "componenti/nucleo/0.1.4/windows-x86_64/Utilio_0.1.4_x64-setup.exe",
-          "sha256": "c6d99ef235fb0c544eecb1ec35395a117c4b0a527182938657775ab9dfcac502",
-          "byte": 1911149
+          "url": "componenti/nucleo/0.1.5/windows-x86_64/Utilio_0.1.5_x64-setup.exe",
+          "sha256": "322579e534e01b9b806ef86d1eb973a6c8d33dc12362500374aa7b760408ac9e",
+          "byte": 2076182
         }
       }
     }
   ],
   "catalogo": [
+    {
+      "id": "core",
+      "nome": "Utilio Core",
+      "descrizione": "Il cuore di Utilio: ali, memoria, regole e chat con Claude. Dopo i 30 giorni di prova, senza licenza i dati restano consultabili in sola lettura.",
+      "a_pagamento": true,
+      "durate_mesi": [
+        12
+      ],
+      "optional": []
+    },
     {
       "id": "backup",
       "nome": "Backup continuo",
