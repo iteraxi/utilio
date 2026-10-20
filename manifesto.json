@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "numero": 4,
-  "pubblicato": "2026-10-19T17:55:12Z",
+  "numero": 7,
+  "pubblicato": "2026-10-20T07:52:49Z",
   "componenti": [
     {
       "id": "prova",
@@ -19,15 +19,35 @@
     {
       "id": "nucleo",
       "tipo": "nucleo",
-      "versione": "0.1.2",
+      "versione": "0.1.3",
       "descrizione": "Utilio",
       "file": {
         "windows-x86_64": {
-          "url": "componenti/nucleo/0.1.2/windows-x86_64/Utilio_0.1.2_x64-setup.exe",
-          "sha256": "3735fae0a182eaecc8a8e7bb4f5d053d5092c349ad5373eb7581ff599b45ddb9",
-          "byte": 1816176
+          "url": "componenti/nucleo/0.1.3/windows-x86_64/Utilio_0.1.3_x64-setup.exe",
+          "sha256": "d170332fe8bb63626f19684328503b5c5815717b3780c6fbad88c4c2f3d7c097",
+          "byte": 1909207
         }
       }
     }
-  ]
+  ],
+  "catalogo": [
+    {
+      "id": "backup",
+      "nome": "Backup continuo",
+      "descrizione": "Copia automatica e continua della cartella di lavoro, con la cronologia delle modifiche.",
+      "a_pagamento": true,
+      "durate_mesi": [
+        1,
+        12
+      ],
+      "optional": [
+        {
+          "id": "cloud",
+          "nome": "Copia nel cloud",
+          "descrizione": "Una copia anche fuori dal computer, su un servizio online."
+        }
+      ]
+    }
+  ],
+  "contatto_licenze": "support@iteraxi.com"
 }
