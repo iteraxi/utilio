@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "numero": 11,
-  "pubblicato": "2026-10-20T20:21:34Z",
+  "numero": 12,
+  "pubblicato": "2026-10-22T05:02:45Z",
   "componenti": [
     {
       "id": "prova",
@@ -19,13 +19,13 @@
     {
       "id": "nucleo",
       "tipo": "nucleo",
-      "versione": "0.1.6",
+      "versione": "0.1.7",
       "descrizione": "Utilio",
       "file": {
         "windows-x86_64": {
-          "url": "componenti/nucleo/0.1.6/windows-x86_64/Utilio_0.1.6_x64-setup.exe",
-          "sha256": "35c6af36fe0d7edc8f0736f18529a5fadd9a8f0499d8e6bd456ddef7057e8025",
-          "byte": 2084200
+          "url": "componenti/nucleo/0.1.7/windows-x86_64/Utilio_0.1.7_x64-setup.exe",
+          "sha256": "fa98d0d0bc1ee24ff6353e31fcf0e50a6703f35542188e9ab6e68ee760365cec",
+          "byte": 2176427
         }
       }
     }
