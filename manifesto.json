@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "numero": 12,
-  "pubblicato": "2026-10-22T05:02:45Z",
+  "numero": 13,
+  "pubblicato": "2026-11-10T16:26:14Z",
   "componenti": [
     {
       "id": "prova",
@@ -37,26 +37,92 @@
       "descrizione": "Il cuore di Utilio: ali, memoria, regole e chat con Claude. Dopo i 30 giorni di prova, senza licenza i dati restano consultabili in sola lettura.",
       "a_pagamento": true,
       "durate_mesi": [
+        1,
         12
       ],
-      "optional": []
+      "optional": [],
+      "prezzi": {
+        "anno": 100,
+        "mese": 10
+      }
     },
     {
-      "id": "backup",
-      "nome": "Backup continuo",
-      "descrizione": "Copia automatica e continua della cartella di lavoro, con la cronologia delle modifiche.",
+      "id": "pro",
+      "nome": "Utilio Pro",
+      "descrizione": "Tutto il Core più il lavoro d'ufficio: riepilogo della giornata, registro lavori, posta, calendario e attività collegati alle chat, registrazione e trascrizione delle riunioni, backup continuo della cartella di lavoro e comandi del computer da «Chiedi al volo», che partono solo con «Esegui».",
       "a_pagamento": true,
       "durate_mesi": [
         1,
         12
       ],
-      "optional": [
-        {
-          "id": "cloud",
-          "nome": "Copia nel cloud",
-          "descrizione": "Una copia anche fuori dal computer, su un servizio online."
-        }
-      ]
+      "optional": [],
+      "prezzi": {
+        "anno": 100,
+        "mese": 10
+      }
+    },
+    {
+      "id": "production",
+      "nome": "Production",
+      "descrizione": "Per i documenti che mandi: controparte critica, revisione doppia prima dell'invio, documenti sulla tua carta intestata, verifica fedeltà e umanizza, e il profilo di stile, che fa scrivere come te. Si aggiunge a qualunque livello.",
+      "a_pagamento": true,
+      "durate_mesi": [
+        1,
+        12
+      ],
+      "optional": [],
+      "prezzi": {
+        "anno": 100,
+        "mese": 10
+      }
+    },
+    {
+      "id": "connection",
+      "nome": "Connection",
+      "descrizione": "Utilio su Telegram: avvisi quando sei via, vedetta e brief del mattino. Si aggiunge a qualunque livello.",
+      "a_pagamento": true,
+      "durate_mesi": [
+        1,
+        12
+      ],
+      "optional": [],
+      "in_arrivo": true,
+      "prezzi": {
+        "anno": 100,
+        "mese": 10
+      }
+    },
+    {
+      "id": "multiuser",
+      "nome": "Multiuser",
+      "descrizione": "Utilio per più persone e più posti: ospiti con accesso a un'ala, le chat del PC dal telefono, la stessa cartella su un secondo PC e l'accesso da fuori con Tailscale. Si aggiunge a qualunque livello.",
+      "a_pagamento": true,
+      "durate_mesi": [
+        1,
+        12
+      ],
+      "optional": [],
+      "in_arrivo": true,
+      "prezzi": {
+        "anno": 100,
+        "mese": 10
+      }
+    },
+    {
+      "id": "superuser",
+      "nome": "Superuser",
+      "descrizione": "Per chi gestisce: tasse, soldi e scadenzario sui tuoi file, costo a listino delle chat, più second brain accesi insieme e second brain figli da creare e verificare. Si aggiunge a qualunque livello.",
+      "a_pagamento": true,
+      "durate_mesi": [
+        1,
+        12
+      ],
+      "optional": [],
+      "in_arrivo": true,
+      "prezzi": {
+        "anno": 100,
+        "mese": 10
+      }
     }
   ],
   "contatto_licenze": "support@iteraxi.com"
