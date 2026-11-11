@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "numero": 16,
-  "pubblicato": "2026-11-11T14:34:38Z",
+  "numero": 18,
+  "pubblicato": "2026-11-11T17:29:26Z",
   "componenti": [
     {
       "id": "prova",
@@ -19,13 +19,13 @@
     {
       "id": "nucleo",
       "tipo": "nucleo",
-      "versione": "0.1.9",
+      "versione": "0.1.10",
       "descrizione": "Utilio",
       "file": {
         "windows-x86_64": {
-          "url": "componenti/nucleo/0.1.9/windows-x86_64/Utilio_0.1.9_x64-setup.exe",
-          "sha256": "ca82afbc1baaad5ceda81cb3b82118c342a7374ff4277fafdce5ca256b488fcf",
-          "byte": 7338671
+          "url": "componenti/nucleo/0.1.10/windows-x86_64/Utilio_0.1.10_x64-setup.exe",
+          "sha256": "b102010a303951b2f29f3b323cb72b6757750349f74787e9668778f3c184a50c",
+          "byte": 7346304
         }
       }
     }
@@ -126,5 +126,6 @@
       }
     }
   ],
-  "contatto_licenze": "support@iteraxi.com"
+  "contatto_licenze": "support@iteraxi.com",
+  "segnalazioni": "https://script.google.com/macros/s/AKfycbwqOAcFvw668X1J0B8LuEstzvCU9tzQBMgFKu-0NCXPbvWnIKHV6_uQnYs6T1TVg0_BMQ/exec"
 }
