@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "numero": 13,
-  "pubblicato": "2026-11-10T16:26:14Z",
+  "numero": 15,
+  "pubblicato": "2026-11-11T08:01:27Z",
   "componenti": [
     {
       "id": "prova",
@@ -19,13 +19,13 @@
     {
       "id": "nucleo",
       "tipo": "nucleo",
-      "versione": "0.1.7",
+      "versione": "0.1.8",
       "descrizione": "Utilio",
       "file": {
         "windows-x86_64": {
-          "url": "componenti/nucleo/0.1.7/windows-x86_64/Utilio_0.1.7_x64-setup.exe",
-          "sha256": "fa98d0d0bc1ee24ff6353e31fcf0e50a6703f35542188e9ab6e68ee760365cec",
-          "byte": 2176427
+          "url": "componenti/nucleo/0.1.8/windows-x86_64/Utilio_0.1.8_x64-setup.exe",
+          "sha256": "cd336c9ce823f822734f1ec6d3ef2514c186fc86948cbe55f44d564c729c6ee0",
+          "byte": 7332612
         }
       }
     }
@@ -119,6 +119,7 @@
       ],
       "optional": [],
       "in_arrivo": true,
+      "nascosto": true,
       "prezzi": {
         "anno": 100,
         "mese": 10
