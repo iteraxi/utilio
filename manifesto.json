@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "numero": 18,
-  "pubblicato": "2026-11-11T17:29:26Z",
+  "numero": 19,
+  "pubblicato": "2026-11-13T14:12:31Z",
   "componenti": [
     {
       "id": "prova",
@@ -34,7 +34,7 @@
     {
       "id": "core",
       "nome": "Utilio Core",
-      "descrizione": "Il cuore di Utilio: ali, memoria, regole e chat con Claude. Dopo i 30 giorni di prova, senza licenza i dati restano consultabili in sola lettura.",
+      "descrizione": "Il cuore di Utilio: ali, memoria, regole e chat con Claude. Dopo i 30 giorni di prova, senza licenza i dati restano consultabili in sola lettura. Prezzo provvisorio, non ancora quello reale.",
       "a_pagamento": true,
       "durate_mesi": [
         1,
@@ -49,7 +49,7 @@
     {
       "id": "pro",
       "nome": "Utilio Pro",
-      "descrizione": "Tutto il Core più il lavoro d'ufficio: riepilogo della giornata, registro lavori, posta, calendario e attività collegati alle chat, registrazione e trascrizione delle riunioni, backup continuo della cartella di lavoro e comandi del computer da «Chiedi al volo», che partono solo con «Esegui».",
+      "descrizione": "Tutto il Core più il lavoro d'ufficio: riepilogo della giornata, registro lavori, posta, calendario e attività collegati alle chat, registrazione e trascrizione delle riunioni, backup continuo della cartella di lavoro e comandi del computer da «Chiedi al volo», che partono solo con «Esegui». Prezzo provvisorio, non ancora quello reale.",
       "a_pagamento": true,
       "durate_mesi": [
         1,
@@ -64,7 +64,7 @@
     {
       "id": "production",
       "nome": "Production",
-      "descrizione": "Per i documenti che mandi: controparte critica, revisione doppia prima dell'invio, documenti sulla tua carta intestata, verifica fedeltà e umanizza, e il profilo di stile, che fa scrivere come te. Si aggiunge a qualunque livello.",
+      "descrizione": "Per i documenti che mandi: controparte critica, revisione doppia prima dell'invio, documenti sulla tua carta intestata, verifica fedeltà e umanizza, e il profilo di stile, che fa scrivere come te. Si aggiunge a qualunque livello. Prezzo provvisorio, non ancora quello reale.",
       "a_pagamento": true,
       "durate_mesi": [
         1,
@@ -79,7 +79,7 @@
     {
       "id": "connection",
       "nome": "Connection",
-      "descrizione": "Utilio su Telegram: avvisi quando sei via, vedetta e brief del mattino. Si aggiunge a qualunque livello.",
+      "descrizione": "Utilio su Telegram: avvisi quando sei via, vedetta e brief del mattino. Si aggiunge a qualunque livello. Prezzo provvisorio, non ancora quello reale.",
       "a_pagamento": true,
       "durate_mesi": [
         1,
@@ -95,7 +95,7 @@
     {
       "id": "multiuser",
       "nome": "Multiuser",
-      "descrizione": "Utilio per più persone e più posti: ospiti con accesso a un'ala, le chat del PC dal telefono, la stessa cartella su un secondo PC e l'accesso da fuori con Tailscale. Si aggiunge a qualunque livello.",
+      "descrizione": "Utilio per più persone e più posti: ospiti con accesso a un'ala, le chat del PC dal telefono, la stessa cartella su un secondo PC e l'accesso da fuori con Tailscale. Si aggiunge a qualunque livello. Prezzo provvisorio, non ancora quello reale.",
       "a_pagamento": true,
       "durate_mesi": [
         1,
@@ -111,7 +111,7 @@
     {
       "id": "superuser",
       "nome": "Superuser",
-      "descrizione": "Per chi gestisce: tasse, soldi e scadenzario sui tuoi file, costo a listino delle chat, più second brain accesi insieme e second brain figli da creare e verificare. Si aggiunge a qualunque livello.",
+      "descrizione": "Per chi gestisce: tasse, soldi e scadenzario sui tuoi file, costo a listino delle chat, più second brain accesi insieme e second brain figli da creare e verificare. Si aggiunge a qualunque livello. Prezzo provvisorio, non ancora quello reale.",
       "a_pagamento": true,
       "durate_mesi": [
         1,
@@ -120,6 +120,22 @@
       "optional": [],
       "in_arrivo": true,
       "nascosto": true,
+      "prezzi": {
+        "anno": 100,
+        "mese": 10
+      }
+    },
+    {
+      "id": "anonimizza",
+      "nome": "Dati nascosti",
+      "descrizione": "Per le ali con dati di clienti o personali: nomi, indirizzi, codici fiscali e gli altri dati personali vengono sostituiti sul tuo PC da segnaposti prima di arrivare a Claude, e rimessi al loro posto in quello che leggi. I tuoi file restano come sono. Serve un PC con almeno 16 GB di memoria. Si aggiunge a qualunque livello. Prezzo provvisorio, non ancora quello reale.",
+      "a_pagamento": true,
+      "durate_mesi": [
+        1,
+        12
+      ],
+      "optional": [],
+      "in_arrivo": true,
       "prezzi": {
         "anno": 100,
         "mese": 10
