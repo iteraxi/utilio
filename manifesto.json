@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "numero": 19,
-  "pubblicato": "2026-11-13T14:12:31Z",
+  "numero": 20,
+  "pubblicato": "2026-11-16T12:31:01Z",
   "componenti": [
     {
       "id": "prova",
@@ -42,8 +42,8 @@
       ],
       "optional": [],
       "prezzi": {
-        "anno": 100,
-        "mese": 10
+        "anno": 1000,
+        "mese": 100
       }
     },
     {
@@ -57,8 +57,8 @@
       ],
       "optional": [],
       "prezzi": {
-        "anno": 100,
-        "mese": 10
+        "anno": 1000,
+        "mese": 100
       }
     },
     {
@@ -72,8 +72,8 @@
       ],
       "optional": [],
       "prezzi": {
-        "anno": 100,
-        "mese": 10
+        "anno": 1000,
+        "mese": 100
       }
     },
     {
@@ -88,8 +88,8 @@
       "optional": [],
       "in_arrivo": true,
       "prezzi": {
-        "anno": 100,
-        "mese": 10
+        "anno": 1000,
+        "mese": 100
       }
     },
     {
@@ -104,8 +104,8 @@
       "optional": [],
       "in_arrivo": true,
       "prezzi": {
-        "anno": 100,
-        "mese": 10
+        "anno": 1000,
+        "mese": 100
       }
     },
     {
@@ -121,8 +121,8 @@
       "in_arrivo": true,
       "nascosto": true,
       "prezzi": {
-        "anno": 100,
-        "mese": 10
+        "anno": 1000,
+        "mese": 100
       }
     },
     {
@@ -137,8 +137,8 @@
       "optional": [],
       "in_arrivo": true,
       "prezzi": {
-        "anno": 100,
-        "mese": 10
+        "anno": 1000,
+        "mese": 100
       }
     }
   ],
