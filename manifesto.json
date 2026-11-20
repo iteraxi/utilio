@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "numero": 23,
-  "pubblicato": "2026-11-20T08:52:42Z",
+  "numero": 24,
+  "pubblicato": "2026-11-20T10:00:10Z",
   "componenti": [
     {
       "id": "prova",
@@ -40,11 +40,7 @@
         1,
         12
       ],
-      "optional": [],
-      "prezzi": {
-        "anno": 1000,
-        "mese": 100
-      }
+      "optional": []
     },
     {
       "id": "pro",
@@ -55,11 +51,7 @@
         1,
         12
       ],
-      "optional": [],
-      "prezzi": {
-        "anno": 1000,
-        "mese": 100
-      }
+      "optional": []
     },
     {
       "id": "production",
@@ -70,11 +62,7 @@
         1,
         12
       ],
-      "optional": [],
-      "prezzi": {
-        "anno": 1000,
-        "mese": 100
-      }
+      "optional": []
     },
     {
       "id": "connection",
@@ -86,11 +74,7 @@
         12
       ],
       "optional": [],
-      "in_arrivo": true,
-      "prezzi": {
-        "anno": 1000,
-        "mese": 100
-      }
+      "in_arrivo": true
     },
     {
       "id": "multiuser",
@@ -102,11 +86,7 @@
         12
       ],
       "optional": [],
-      "in_arrivo": true,
-      "prezzi": {
-        "anno": 1000,
-        "mese": 100
-      }
+      "in_arrivo": true
     },
     {
       "id": "superuser",
@@ -119,11 +99,7 @@
       ],
       "optional": [],
       "in_arrivo": true,
-      "nascosto": true,
-      "prezzi": {
-        "anno": 1000,
-        "mese": 100
-      }
+      "nascosto": true
     },
     {
       "id": "anonimizza",
@@ -135,14 +111,10 @@
         12
       ],
       "optional": [],
-      "in_arrivo": true,
-      "prezzi": {
-        "anno": 1000,
-        "mese": 100
-      }
+      "in_arrivo": true
     }
   ],
   "contatto_licenze": "support@iteraxi.com",
   "segnalazioni": "https://script.google.com/macros/s/AKfycbwqOAcFvw668X1J0B8LuEstzvCU9tzQBMgFKu-0NCXPbvWnIKHV6_uQnYs6T1TVg0_BMQ/exec",
-  "prezzi_cifrati": "VVRQMXzfIXp51TDNocidLCkIs5UdboJPqFkZcLzesrmnvK5RnWldjWdTEFmEtQJfoHwoc5Zdmdy8t/RTtYippzWN+QkYHWJtHnEdTGZ9ahpP2f7HdJG/Vnz+Dyf2XGaXdoVqYM8hBML5+lMQcVUrARiSPIYzheWlDpaaTCOlNWD4a1lxYsq+OIlnRkTTLNcywMVeRZd0lXbUUEtFZ+6Ah7KeuFz2rBD6bQ+gIEEgCDGvmgqvtQBA1zLLqTmMS4tUtQNtikexBljuVjGQQc5dT2iwl9RDUt+fWSKU6wobEMH3QFkf3Fjhi8AfKrojHJO8H9mCwWfj5FStGWcsUgLjoBgzb86cRnudrwkYOPwTtIPGa00QSWBmmtyBDgq86w51suNCS7wUYfU="
+  "prezzi_cifrati": "VVRQMZnRXDDf/3m28AV4dGoqbK94PoFk0tVsUiJFuol4Moa0muSRoXkgwWoqVjkROQuiXWXqJf8Xm5xpGPfd0dVsoA5MIy7MNQNg4vSam0tXXigNf1k9ySIbPeUek2ueeBAnX/8ZNffxZ9Un50Gk0HvBYL6fq06CvhP3cia0k89WPLH9rbLrapuCkI48cwvnxtSpNyyyk3/AFydIDSb+wrLxMYGBrUOPPMQ8HDHKnWp2Wl9vk3VKKyD5uc1xp5MdE5OydvhVyF1n4NpJm1k5IdzPHlkKfdyoZAl1RNUw6PB9jkwJUkUPL2q5s2t+lMJir4xUbxlKTmE0sth6SSLrWuco44hlwtHuO3R5DKoQpqYj4044fxMhC5l22HG9PaXxR4q3dQNWshs="
 }
