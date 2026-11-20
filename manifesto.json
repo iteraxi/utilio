@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "numero": 22,
-  "pubblicato": "2026-11-19T18:22:58Z",
+  "numero": 23,
+  "pubblicato": "2026-11-20T08:52:42Z",
   "componenti": [
     {
       "id": "prova",
@@ -19,13 +19,13 @@
     {
       "id": "nucleo",
       "tipo": "nucleo",
-      "versione": "0.1.13",
+      "versione": "0.1.14",
       "descrizione": "Utilio",
       "file": {
         "windows-x86_64": {
-          "url": "componenti/nucleo/0.1.13/windows-x86_64/Utilio_0.1.13_x64-setup.exe",
-          "sha256": "6672caa581b1b75abf04dbd6965cb380077643f9314242ddb780ad1c9b33a3bd",
-          "byte": 7628188
+          "url": "componenti/nucleo/0.1.14/windows-x86_64/Utilio_0.1.14_x64-setup.exe",
+          "sha256": "4848d7f8f9c84c0e150a4971d33ec97369723b709eef6ec4d4b1ef59d8d4e7a7",
+          "byte": 7631594
         }
       }
     }
@@ -143,5 +143,6 @@
     }
   ],
   "contatto_licenze": "support@iteraxi.com",
-  "segnalazioni": "https://script.google.com/macros/s/AKfycbwqOAcFvw668X1J0B8LuEstzvCU9tzQBMgFKu-0NCXPbvWnIKHV6_uQnYs6T1TVg0_BMQ/exec"
+  "segnalazioni": "https://script.google.com/macros/s/AKfycbwqOAcFvw668X1J0B8LuEstzvCU9tzQBMgFKu-0NCXPbvWnIKHV6_uQnYs6T1TVg0_BMQ/exec",
+  "prezzi_cifrati": "VVRQMXzfIXp51TDNocidLCkIs5UdboJPqFkZcLzesrmnvK5RnWldjWdTEFmEtQJfoHwoc5Zdmdy8t/RTtYippzWN+QkYHWJtHnEdTGZ9ahpP2f7HdJG/Vnz+Dyf2XGaXdoVqYM8hBML5+lMQcVUrARiSPIYzheWlDpaaTCOlNWD4a1lxYsq+OIlnRkTTLNcywMVeRZd0lXbUUEtFZ+6Ah7KeuFz2rBD6bQ+gIEEgCDGvmgqvtQBA1zLLqTmMS4tUtQNtikexBljuVjGQQc5dT2iwl9RDUt+fWSKU6wobEMH3QFkf3Fjhi8AfKrojHJO8H9mCwWfj5FStGWcsUgLjoBgzb86cRnudrwkYOPwTtIPGa00QSWBmmtyBDgq86w51suNCS7wUYfU="
 }
